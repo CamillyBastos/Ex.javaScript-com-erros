@@ -1,1 +1,1 @@
-# Ex.javaScript-com-erros
+# exercicios-js-fafla-com-erros
